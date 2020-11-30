@@ -1,0 +1,11 @@
+title: Addepar Status
+name: addepar_status
+description: Addepar System Status
+defaultLocale: en
+locales:
+  - code: en
+    iso: en-US
+    name: English
+    file: en.json
+content:
+  frontMatterFormat: yaml
